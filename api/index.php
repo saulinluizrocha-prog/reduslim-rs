@@ -54,6 +54,122 @@
 				}
 			}
 		</style> 
+<title>Reduslim Srbija | Prirodna Ravnoteža | 50% Popusta + Plaćanje Pouzećem</title>
+<meta name="description" content="Naručite Reduslim danas i uštedite 2000 RSD! 100% originalna formula za vaše blagostanje. Sigurna kupovina, brza dostava i plaćanje kuriru pri preuzimanju.">
+<meta name="keywords" content="Reduslim, Reduslim Srbija, naruči reduslim, plaćanje pouzećem, prirodni dodaci, blagostanje">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://reduslim-rs.vercel.app/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+		<meta property="og:title" content="Reduslim Srbija | Uštedite 50% Danas">
+<meta property="og:description" content="Sigurna narudžba bez plaćanja unapred. Platite kuriru po isporuci.">
+<meta property="og:type" content="product">
+<meta property="og:url" content="https://reduslim-rs.vercel.app/">
+<meta property="og:locale" content="sr_RS">
+<meta name="twitter:card" content="summary_large_image">
+		<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://reduslim-rs.vercel.app/#product",
+      "name": "Reduslim",
+      "description": "Prirodna formula za ravnotežu vašeg tela i osećaj lakoće. Iskoristite popust od 50% i platite kuriru tek pri preuzimanju (COD).",
+      "image": "https://reduslim-rs.vercel.app/images/product-image.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "Reduslim"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://reduslim-rs.vercel.app/",
+        "priceCurrency": "RSD",
+        "price": "2000",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Reduslim Srbija"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "1250",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jelena M."
+          },
+          "datePublished": "2023-10-15",
+          "reviewBody": "Veoma sam zadovoljna brzom dostavom i sigurnim plaćanjem. Osećam se odlično!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://reduslim-rs.vercel.app/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Da li moram da platim unapred?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ne, ne plaćate ništa unapred. Plaćanje je isključivo pouzećem (gotovinom kuriru kada paket stigne na vašu adresu)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko iznosi cena sa popustom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trenutna akcijska cena je samo 2000 RSD, što predstavlja popust od 50% u odnosu na redovnu cenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Koliko traje dostava za Srbiju?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dostava je brza i paket obično stiže na vašu kućnu adresu u roku od nekoliko radnih dana, u diskretnom pakovanju."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+		<script defer
+  data-tag="CDR1jxMNLV75D7p6goEnmB"
+  src="https://cdn.cckdl.com/js/base.min.js">
+</script>
+
+		<meta name="google-site-verification" content="OZ9y92gjrVGx7BCZrwjEiJqnUBSMea5Pd7iJuMbMOGk" />
+
+		<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17617394771"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17617394771');
+</script>
 	</head>
 	<body>
 		<div class="wrapper">
