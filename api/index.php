@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="sr">
+<html dir="ltr" lang="sr-RS">
 	<head>
 		<meta charset="utf-8">
 		<meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" name="viewport">
@@ -31,18 +31,22 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.js"></script>
 
 		<style>
-			/* E-E-A-T Footer Styles - Otimizado para Aprovação no Google */
-			.site-footer { background-color: #1a1a1a; color: #ccc; padding: 40px 20px; font-family: 'Roboto', sans-serif; text-align: center; font-size: 14px; line-height: 1.6; }
-			.site-footer a { color: #f0a500; text-decoration: none; margin: 0 10px; }
-			.site-footer a:hover { text-decoration: underline; }
-			.site-footer .disclaimer { border-top: 1px solid #333; margin-top: 20px; padding-top: 20px; font-size: 12px; color: #999; text-align: justify; }
-			
 			/* Form Errors Styles */
 			.err1, .err2, .err3, .err4 { display: none; }
 			.error-box { color: #fff; background-color: #DE5042; border-radius: 5px; text-align: center; width: 95%; padding:7px; font-size: 13px; line-height: 20px; z-index: 100; margin: 0 auto 0px; }
 			.hide, .flag-dropdown { display: none; }
 			input:invalid { box-shadow: none; }
 			@media (min-width: 769px) { .error-box { font-size: 13px; line-height: 16px; } }
+
+			/* ======================================================== */
+			/* E-E-A-T FOOTER STYLES (GARANTINDO A VISIBILIDADE)        */
+			/* ======================================================== */
+			.site-footer { background-color: #111; color: #ccc; padding: 40px 20px 20px; font-family: 'Roboto', sans-serif; text-align: center; font-size: 14px; line-height: 1.6; clear: both; display: block; width: 100%; box-sizing: border-box; margin-top: 30px; }
+			.footer-links-box { background-color: #222; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 600px; border: 1px solid #333; }
+			.footer-links-box a { color: #DE5042; text-decoration: none; margin: 0 15px; font-weight: 700; text-transform: uppercase; font-size: 13px; display: inline-block; }
+			.footer-links-box a:hover { color: #fff; text-decoration: underline; }
+			.site-footer .disclaimer { border-top: 1px solid #333; margin-top: 25px; padding-top: 20px; font-size: 11px; color: #888; text-align: justify; line-height: 1.5; }
+			.site-footer p { margin-bottom: 5px; }
 		</style> 
 
 		<script type="application/ld+json">
@@ -563,16 +567,21 @@
 					</div>
 				</div>
 			</section>
-		</main> <footer class="site-footer">
+		</main>
+
+		<footer class="site-footer">
 			<div class="limit">
-				<p><strong>Reduslim Srbija</strong></p>
-				<p>Adresa: Bulevar Mihajla Pupina 10, 11000 Beograd, Srbija</p>
-				<p>Email: podrska@reduslim-rs.vercel.app</p>
-				<div class="footer-links">
+				
+				<div class="footer-links-box">
 					<a href="politika-privatnosti.html" target="_blank">Politika privatnosti</a> |
 					<a href="uslovi-koriscenja.html" target="_blank">Uslovi korišćenja</a> |
 					<a href="kontakt.html" target="_blank">Kontakt</a>
 				</div>
+
+				<p><strong>Reduslim Srbija</strong></p>
+				<p>Adresa: Bulevar Mihajla Pupina 10, 11000 Beograd, Srbija</p>
+				<p>Email: podrska@reduslim-rs.vercel.app</p>
+				
 				<p class="disclaimer">
 					<strong>Medicinsko odricanje od odgovornosti:</strong> Ovaj proizvod nije lek i nije zamena za uravnoteženu i raznovrsnu ishranu. Svi rezultati su individualni i mogu varirati od osobe do osobe. Informacije na ovoj stranici ne predstavljaju medicinski savet. Pre upotrebe se posavetujte sa svojim lekarom ili farmaceutom.
 				</p>
