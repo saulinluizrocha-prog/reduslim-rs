@@ -1484,7 +1484,7 @@ Porosit
 
 maxlength="12"   minlength="12"    required   placeholder="Numër telefoni" ></dvv>
 
-                    <div class="error-box err2"> +383XXXXXXXX</div>
+                    <div class="error-box err2"> +381XXXXXXXX</div>
 
 <button class="btn  sub2">
 
