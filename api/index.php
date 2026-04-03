@@ -31,7 +31,7 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.js"></script>
 
 		<style>
-			/* E-E-A-T Footer Styles */
+			/* E-E-A-T Footer Styles - Otimizado para Aprovação no Google */
 			.site-footer { background-color: #1a1a1a; color: #ccc; padding: 40px 20px; font-family: 'Roboto', sans-serif; text-align: center; font-size: 14px; line-height: 1.6; }
 			.site-footer a { color: #f0a500; text-decoration: none; margin: 0 10px; }
 			.site-footer a:hover { text-decoration: underline; }
@@ -372,6 +372,7 @@
 				<div class="limit">
 					<h2 class="title review-title">Devojke poveravaju svoju figuru i zdravlje Reduslimu.</h2>
 					<div class="review-slider">
+						
 						<div class="inst">
 							<div class="inst__header">
 								<div class="inst__header-left">
@@ -380,7 +381,7 @@
 								</div>
 								<div class="inst__header-menu"><span class="inst__header-dot"></span><span class="inst__header-dot"></span><span class="inst__header-dot"></span></div>
 							</div>
-							<div class="inst__img"><img src="assets/img/rev2.jpg" alt="Iskustvo"></div>
+							<div class="inst__img"><img src="assets/img/rev2.jpg" alt="Iskustvo Nikolina"></div>
 							<div class="inst__control">
 								<ul class="inst__control-soc">
 									<li class="inst__control-item"><img src="assets/img/inst_like.png" alt="like"></li>
@@ -395,7 +396,98 @@
 								<p class="inst__description-date"><span class="date-4" data-format="dd month yyyy">28 Mart 2020</span></p>
 							</div>
 						</div>
+						
+						<div class="inst">
+							<div class="inst__header">
+								<div class="inst__header-left">
+									<div class="inst__header-fit">
+										<img src="assets/img/ava2.png" alt="Julija">
+									</div>
+									<p class="inst__header-title"><b>Julija</b></p>
+								</div>
+								<div class="inst__header-menu">
+									<span class="inst__header-dot"></span>
+									<span class="inst__header-dot"></span>
+									<span class="inst__header-dot"></span>
+								</div>
+							</div>
+							<div class="inst__img">
+								<img src="assets/img/rev1.jpg" alt="Iskustvo Julija">
+							</div>
+							<div class="inst__control">
+								<ul class="inst__control-soc">
+									<li class="inst__control-item">
+										<img src="assets/img/inst_like.png" alt="like">
+									</li>
+									<li class="inst__control-item">
+										<img src="assets/img/inst_comment.png" alt="comment">
+									</li>
+									<li class="inst__control-item">
+										<img src="assets/img/inst_share.png" alt="share">
+									</li>
+								</ul>
+								<div class="inst__control-last">
+									<img src="assets/img/inst_add.png" alt="add">
+								</div>
+							</div>
+							<div class="inst__description">
+								<p class="lova-lova"><b>Sviđa mi se: 342</b></p>
+								<p class="inst__description-text"><b>Julija</b>
+									Zaboravila sam da se pohvalim rezultatima: -14 kg za mesec dana! Keto dijeta i Reduslim su zakon! Presrećna sam.
+								</p>
+								<br>
+								<p class="inst__description-date">
+									<span class="date-3" data-format="dd month yyyy">29 Mart 2020</span>
+								</p>
+							</div>
 						</div>
+
+						<div class="inst">
+							<div class="inst__header">
+								<div class="inst__header-left">
+									<div class="inst__header-fit">
+										<img src="assets/img/avatar1.jpg" alt="Violeta">
+									</div>
+									<p class="inst__header-title"><b>Violeta</b></p>
+								</div>
+								<div class="inst__header-menu">
+									<span class="inst__header-dot"></span>
+									<span class="inst__header-dot"></span>
+									<span class="inst__header-dot"></span>
+								</div>
+							</div>
+							<div class="inst__img">
+								<img src="assets/img/rev3.jpg" alt="Iskustvo Violeta">
+							</div>
+							<div class="inst__control">
+								<ul class="inst__control-soc">
+									<li class="inst__control-item">
+										<img src="assets/img/inst_like.png" alt="like">
+									</li>
+									<li class="inst__control-item">
+										<img src="assets/img/inst_comment.png" alt="comment">
+									</li>
+									<li class="inst__control-item">
+										<img src="assets/img/inst_share.png" alt="share">
+									</li>
+								</ul>
+								<div class="inst__control-last">
+									<img src="assets/img/inst_add.png" alt="add">
+								</div>
+							</div>
+							<div class="inst__description">
+								<p class="lova-lova"><b>Sviđa mi se: 225</b></p>
+								<p class="inst__description-text"><b>Violeta</b>
+									Danas mi je stigao paket sa Reduslimom. Zvanično počinjem da mršavim :) Ko je sa mnom?
+								</p>
+								<br>
+								<p class="inst__description-date">
+									<span class="date-2" data-format="dd month yyyy">30 Mart 2020</span>
+								</p>
+							</div>
+						</div>
+
+					</div>
 				</div>
 			</section>
 
@@ -487,7 +579,6 @@
 				<p class="copyright">© 2024 Reduslim Srbija. Sva prava zadržana.</p>
 			</div>
 		</footer>
-
 		<script>
 			$(document).ready(function (){
 				$(".ever-popup-btn").click(function (e){
