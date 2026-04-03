@@ -10,57 +10,57 @@
 			<link href="assets/css/slick.css" rel="stylesheet">
 		<link href="assets/css/style.css" rel="stylesheet">
 
-					   
-	   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.js"></script>
+					   
+	   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-	  
-	  <style>
+	  
+	  <style>
 	
 	.err1, .err2, .err3, .err4{
 		display: none;
 	}
 	.error-box {
-    color: #fff;
-    background-color: #DE5042;
-    border-radius: 5px;
-    text-align: center;
-    width: 95%; padding:7px;
-    font-size: 13px;
-    line-height: 20px;
-    z-index: 100;
-    margin: 0 auto 0px;
+    color: #fff;
+    background-color: #DE5042;
+    border-radius: 5px;
+    text-align: center;
+    width: 95%; padding:7px;
+    font-size: 13px;
+    line-height: 20px;
+    z-index: 100;
+    margin: 0 auto 0px;
 }
 
 
-        .hide, .flag-dropdown {
-            display: none;
-        }
+        .hide, .flag-dropdown {
+            display: none;
+        }
 
-        .error-box {
-            color: #fff;
-            background-color: #DE5042;
-            border-radius: 5px;
-            text-align: center;
-            font-size: 26px;
-            line-height: 35px;
-            margin: 5px !important;
-            z-index: 100;
-        }
+        .error-box {
+            color: #fff;
+            background-color: #DE5042;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 26px;
+            line-height: 35px;
+            margin: 5px !important;
+            z-index: 100;
+        }
 
-        input:invalid {
-            box-shadow: none;
-        }
-        @media (min-width: 769px) {
-        .error-box {
-            font-size: 13px;
-            line-height: 16px;
-        }
-        }
-    </style> 
+        input:invalid {
+            box-shadow: none;
+        }
+        @media (min-width: 769px) {
+        .error-box {
+            font-size: 13px;
+            line-height: 16px;
+        }
+        }
+    </style> 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <!-- INTH_SNIPPET_TOP --></head>
+  </head>
 	<body>
 		<div class="wrapper">
 			<nav class="navigation">
@@ -69,10 +69,10 @@
 						<span class="biger">Reduslim</span>
 					</div>
 					<ul class="navigation_list">
-						<li class="navigation_list-item"><a class="to-scroll" data-scroll="works" href="#">SI FUNKSIONON</a>
+						<li class="navigation_list-item"><a class="to-scroll" data-scroll="works" href="#">KAKO FUNKCIONIŠE</a>
 						</li>
 						<li class="navigation_list-item"><a class="to-scroll" data-scroll="faq" href="#"> FAQ </a></li>
-						<li class="navigation_list-item active"><a class="ever-popup-btn" data-scroll="order_form" href="#"><i class="icon-basket"></i> POROSIT </a>
+						<li class="navigation_list-item active"><a class="ever-popup-btn" data-scroll="order_form" href="#"><i class="icon-basket"></i> NARUČI </a>
 						</li>
 					</ul>
 					<div class="burger">
@@ -92,7 +92,7 @@
 							Reduslim
 						</h1>
 						<p class="subtitle">
-							Për ata që nuk janë mësuar të numërojnë kaloritë
+							Za one koji ne vole da broje kalorije
 						</p>
 						<div class="mobile_wrapper">
 							<div class="_woman"></div>
@@ -100,7 +100,7 @@
 								<img alt="" class="_prod" src="assets/img/product.png" style="max-width: 300px;">
 							</div>
 						</div>
-						<button class="btn ever-popup-btn">URIA S'DO DUHET!</button>
+						<button class="btn ever-popup-btn">BEZ GLADOVANJA!</button>
 					</div>
 				</div>
 			</div>
@@ -114,7 +114,7 @@
 										<img alt="" src="assets/img/wk1.png">
 									</div>
 									<p>
-										konsumimi i karbohidrateve zvogëlohet
+										Smanjuje se unos ugljenih hidrata
 									</p>
 								</li>
 								<li class="works-list_item _2 _w50 _pr">
@@ -122,7 +122,7 @@
 										<img alt="" src="assets/img/wk5.png">
 									</div>
 									<p>
-										Ketonet shndërrohen në energji për trurin
+										Ketoni postaju energija za mozak
 									</p>
 								</li>
 								<li class="works-list_item _3 _w50 _pl">
@@ -130,7 +130,7 @@
 										<img alt="" src="assets/img/wk2.png">
 									</div>
 									<p>
-										Niveli i glukozës në gjak zvogëlohet
+										Nivo glukoze u krvi opada
 									</p>
 								</li>
 								<li class="works-list_item _4 _w50 _pl2">
@@ -138,7 +138,7 @@
 										<img alt="" src="assets/img/wk4.png">
 									</div>
 									<p>
-										Yndyra shndërrohet në ketone
+										Masti se pretvaraju u ketone
 									</p>
 								</li>
 								<li class="works-list_item _5 _w50 _pr2">
@@ -146,20 +146,20 @@
 										<img alt="" src="assets/img/wk3.png">
 									</div>
 									<p>
-										Trupi fillon të djegë dhjamin
+										Telo počinje da sagoreva masti
 									</p>
 								</li>
 							</ul>
 						</div>
 						<div class="works-content">
 							<h2 class="title works-title">
-								Si funksionon
+								Kako funkcioniše
 							</h2>
 							<p class="text">
-								<span class="product_name">Reduslim</span>  përmban vetëm përbërës natyralë që sjellin trupin në një gjendje të vazhdueshme të ketozës. Ketosis është një proces natyror që lejon trupin të punojë në mënyrë produktive në kushte të marrjes së ushqimit të pakët.
+								<span class="product_name">Reduslim</span> sadrži samo prirodne sastojke koji dovode telo u stanje ketoze. Ketoza je prirodan proces koji omogućava telu da radi produktivno uz manji unos hrane.
 							</p>
 							<p class="text font_bold">
-								Duke e vendosur trupin tuaj në një gjendje të ketozës, fillon një proces intensiv i djegies së yndyrës.
+								Uvođenjem tela u stanje ketoze, počinje intenzivan proces sagorevanja masti.
 							</p>
 						</div>
 					</div>
@@ -170,21 +170,21 @@
 					<div class="_molecule"></div>
 					<div class="eating-left">
 						<h2 class="title">
-							Klinikisht e provuar <br> që  <span class="nowrap">Reduslim</span>
+							Klinički dokazano <br> da <span class="nowrap">Reduslim</span>
 						</h2>
 						<ul class="eating-list">
-							<li class="eating-list__item">rrit shkallën metabolike me 70%</li>
-							<li class="eating-list__item">ndalon prodhimin e qelizave të glukozës dhe yndyrës me 150%</li>
-							<li class="eating-list__item">ndihmon trupin të djegë dhjamin dhe ta shndërrojë atë në energji</li>
-							<li class="eating-list__item">ndalon procesin e rrudhave dhe celulitit</li>
-							<li class="eating-list__item">zvogëlon nivelin e hormonit të stresit - kortizolin dhe përmirëson shëndetin mendor</li>
-							<li class="eating-list__item">rikthen funksionet e trurit dhe sistemit nervor</li>
+							<li class="eating-list__item">ubrzava metabolizam za 70%</li>
+							<li class="eating-list__item">zaustavlja taloženje masti za 150%</li>
+							<li class="eating-list__item">pomaže telu da sagori masti u energiju</li>
+							<li class="eating-list__item">zaustavlja proces stvaranja bora i celulita</li>
+							<li class="eating-list__item">smanjuje nivo kortizola (stresa) i poboljšava raspoloženje</li>
+							<li class="eating-list__item">obnavlja funkcije nervnog sistema</li>
 						</ul>
 						<div class="eating-right _abs">
 							<div class="_woman2"></div>
 							<div class="_circle"></div>
 						</div>
-						<button class="btn ever-popup-btn">POROSIT ME ZBRITJE!</button>
+						<button class="btn ever-popup-btn">NARUČI SA POPUSTOM!</button>
 					</div>
 				</div>
 			</div>
@@ -196,10 +196,10 @@
 						</div>
 						<div class="diet-right">
 							<h2 class="title diet-title">
-								Nuk mund të limitohesh nga ushqimet e shijshme
+								Nema odricanja od ukusne hrane
 							</h2>
 							<p class="text">
-								Duke iu përmbajtur dietës ketogjene dhe duke hequr dorë nga konsumimi i karbohidrateve - do të rritni efektin e Reduslim. Përparësia e një diete me keto është mundësia e konsumimit të shumë ushqimeve të shijshme si mishi, peshku, vezët, djathi dhe gjithçka që përmban shumë yndyrë çdo ditë.
+								Pridržavanje keto dijete i smanjenje ugljenih hidrata pojačava efekat Reduslima. Prednost keto dijete je što i dalje možete jesti meso, ribu, jaja, sir i hranu bogatu mastima svaki dan.
 							</p>
 						</div>
 					</div>
@@ -212,43 +212,43 @@
 					<div class="card-list">
 						<div class="wrapper-card">
 							<h3 class="title">
-								Dieta Keto
+								Keto Dijeta
 							</h3>
 							<p class="text">
-								Koha e humbjes së peshë: nga 3 deri ne 6 muaj
+								Vreme mršavljenja: 3 do 6 meseci
 							</p>
 							<p class="text">
-								Kufizimet: refuzimi i karbohidrateve, marrja e moderuar e proteinave
+								Ograničenja: bez ugljenih hidrata, umereno proteina
 							</p>
 							<p class="text">
-								Efektet anësore: acidoza (dhimbje koke, përgjumje, dobësi); nefrolitiaza (gurët në veshka), demineralizimi i kockave, problemet gastrointestinale, hipoglikemia e përkohshme, dehidratimi
+								Nuspojave: acidoza, dehidratacija, umor, stomačni problemi, glavobolje.
 							</p>
 							<p class="text">
-								Rezultati: minus 5-7 kg në muaj
+								Rezultat: minus 5-7 kg mesečno
 							</p>
 						</div>
 						<div class="wrapper-card">
 							<h3 class="title">
-								Dieta Keto <br class="_mobile-elem"> + <span class="_orange nowrap">Reduslim</span>
+								Keto Dijeta <br class="_mobile-elem"> + <span class="_orange nowrap">Reduslim</span>
 							</h3>
 							<p class="text">
-								Koha e humbjes së peshës: nga 2 javë në një muaj
+								Vreme mršavljenja: 2 nedelje do 1 mesec
 							</p>
 							<p class="text">
-								Kufizimet: konsum i moderuar i karbohidrateve
+								Ograničenja: umeren unos ugljenih hidrata
 							</p>
 							<p class="text">
-								Efektet anësore: nuk u gjendën
+								Nuspojave: nisu pronađene
 							</p>
 							<p class="text">
-								Rezultati: -14-19 kg në muaj
+								Rezultat: -14-19 kg mesečno
 							</p>
 							<div class="center">
-								<button class="btn ever-popup-btn">POROSIT!</button>
+								<button class="btn ever-popup-btn">NARUČI!</button>
 							</div>
 						</div>
 					</div>
-					<p class="cards-conclusion">Sidoqoftë, edhe nëse vazhdoni të hani normalisht dhe e merrni Reduslim, përsëri do të humbni peshë intensivisht.</p>
+					<p class="cards-conclusion">Međutim, čak i ako jedete normalno uz Reduslim, i dalje ćete intenzivno mršaviti.</p>
 				</div>
 			</div>
 			<div class="weight">
@@ -261,25 +261,25 @@
 						</div>
 						<div class="weight-right">
 							<h2 class="title">
-								<span class="nowrap">Reduslim</span>  do të ndryshojë idenë tuaj për humbjen e peshës.
+								<span class="nowrap">Reduslim</span> menja vaš pogled na mršavljenje.
 							</h2>
 							<ul class="weight-list">
 								<li class="weight-list_item">
 									<img alt="" src="assets/img/wh1.png">
 									<p class="item-text">
-										Rezultate pa u sforcuar. Përbërësit të janë aktivë gjatë gjithë ditës ndërsa punoni, relaksoheni apo edhe flini. Ata shpejtojnë metabolizmin dhe fillojnë procesin e djegies së yndyrës pa stërvitje.
+										Rezultati bez napora. Aktivni sastojci ubrzavaju metabolizam i sagorevaju masti čak i dok radite, opuštate se ili spavate.
 									</p>
 								</li>
 								<li class="weight-list_item">
 									<img alt="" src="assets/img/wh2.png">
 									<p class="item-text">
-										Pa efekte anësore. Falë përbërësve të tij natyrorë, Reduslim nuk ndikon negativisht në zemër, enët e gjakut ose mëlçi. Numri i reaksioneve alergjike gjithashtu është zvogëluar në minimum.
+										Bez nuspojava. Prirodni sastav Reduslima ne šteti srcu ni jetri. Rizik od alergijskih reakcija je sveden na minimum.
 									</p>
 								</li>
 								<li class="weight-list_item">
 									<img alt="" src="assets/img/wh3.png">
 									<p class="item-text">
-										Pa djegur masën muskulore. Komponentët Reduslim  prishin yndyrën nënlëkurore duke ruajtur masën e muskujve. Ata parandalojnë uljen e elektroliteve në gjak, gjë që kontribuon në një humbje të shëndetshme të peshës.
+										Čuva mišićnu masu. Razgrađuje potkožne masti, održava mišiće i sprečava pad elektrolita za zdravo mršavljenje.
 									</p>
 								</li>
 							</ul>
@@ -290,7 +290,7 @@
 			<div class="choice">
 				<div class="limit">
 					<h2 class="title">
-						Cfarë do të zgjidhni?
+						Šta ćete odabrati?
 					</h2>
 					<ul class="choice-list">
 						<li class="choice-list_item">
@@ -300,12 +300,12 @@
 								</div>
 								<div class="choice-list__content">
 									<p class="name">
-										<b>Koktejl<br> dobësues</b>
+										<b>Šejk za<br> mršavljenje</b>
 									</p>
 									<ul>
-										<li><b>Kaloritë:</b> 150-230</li>
-										<li><b>Sheqeri:</b> 35-40 g</li>
-										<li><b>Kafeina:</b> 25-30%</li>
+										<li><b>Kalorije:</b> 150-230</li>
+										<li><b>Šećer:</b> 35-40 g</li>
+										<li><b>Kofein:</b> 25-30%</li>
 									</ul>
 								</div>
 							</div>
@@ -317,12 +317,12 @@
 								</div>
 								<div class="choice-list__content">
 									<p class="name">
-										<b>Kafe<br> per t'u dobësuar</b>
+										<b>Kafa za<br> mršavljenje</b>
 									</p>
 									<ul>
-										<li><b>Kaloritë:</b> 120-180</li>
-										<li><b>Sheqeri:</b> 0 g</li>
-										<li><b>Kafeina:</b> 45-55%</li>
+										<li><b>Kalorije:</b> 120-180</li>
+										<li><b>Šećer:</b> 0 g</li>
+										<li><b>Kofein:</b> 45-55%</li>
 									</ul>
 								</div>
 							</div>
@@ -339,9 +339,9 @@
 									</div>
 									</p>
 									<ul>
-										<li><b>Kalori:</b> 0</li>
-										<li><b>Sheqeri:</b> 0 g</li>
-										<li><b>Kafeina:</b> 0 %</li>
+										<li><b>Kalorije:</b> 0</li>
+										<li><b>Šećer:</b> 0 g</li>
+										<li><b>Kofein:</b> 0 %</li>
 									</ul>
 								</div>
 							</div>
@@ -353,12 +353,12 @@
 								</div>
 								<div class="choice-list__content">
 									<p class="name">
-										<b>Pilula të dëmshme dobësuese</b>
+										<b>Štetne pilule za dijetu</b>
 									</p>
 									<ul>
-										<li><b>Kaloritë:</b> 190-250</li>
-										<li><b>Sheqeri:</b> 10-20 g</li>
-										<li><b>Kafeina:</b> 40-50%</li>
+										<li><b>Kalorije:</b> 190-250</li>
+										<li><b>Šećer:</b> 10-20 g</li>
+										<li><b>Kofein:</b> 40-50%</li>
 									</ul>
 								</div>
 							</div>
@@ -370,12 +370,12 @@
 								</div>
 								<div class="choice-list__content">
 									<p class="name">
-										<b>Caj<br> për dobësim</b>
+										<b>Čaj za<br> mršavljenje</b>
 									</p>
 									<ul>
-										<li><b>Kaloritë:</b> 10-130</li>
-										<li><b>Sheqeri:</b> 0 g</li>
-										<li><b>Kafeina:</b> 75-90%</li>
+										<li><b>Kalorije:</b> 10-130</li>
+										<li><b>Šećer:</b> 0 g</li>
+										<li><b>Kofein:</b> 75-90%</li>
 									</ul>
 								</div>
 							</div>
@@ -388,10 +388,10 @@
 					<div class="_dotted"></div>
 					<div class="exclusive-right">
 						<h2 class="title">
-							Thuaji lamtumirë mbipeshes!
+							Recite zbogom višku kilograma!
 						</h2>
 						<p class="text">
-							<b>Humbni peshën 2 herë më shpejt!</b>
+							<b>Smršajte 2 puta brže!</b>
 						</p>
 						<div class="exclusive-left _abs">
 							<div class="_woman5"></div>
@@ -399,8 +399,8 @@
 						</div>
 						<p class="border text">
 							<img alt="" class="_prize" src="assets/img/prize.png">
-							<b>Ofertë ekskluzive!</b>  Blini Reduslim me një zbritje 50%. Koha e promovimit është e kufizuar
-							<button class="btn ever-popup-btn">POROSIT!</button>
+							<b>Ekskluzivna ponuda!</b> Kupite Reduslim sa 50% popusta. Akcija je vremenski ograničena.
+							<button class="btn ever-popup-btn">NARUČI!</button>
 						</p>
 					</div>
 				</div>
@@ -408,7 +408,7 @@
 			<div class="review">
 				<div class="limit">
 					<h2 class="title review-title">
-						Vajzat i besojnë Reduslim figurën dhe shëndetin e tyre.
+						Devojke poveravaju svoju figuru i zdravlje Reduslimu.
 					</h2>
 					<div class="review-slider">
 						<div class="inst">
@@ -417,7 +417,7 @@
 									<div class="inst__header-fit">
 										<img src="assets/img/avatar3.jpg" alt="product">
 									</div>
-									<p class="inst__header-title"><b>Nikoleta</b></p>
+									<p class="inst__header-title"><b>Nikolina</b></p>
 								</div>
 								<div class="inst__header-menu">
 									<span class="inst__header-dot"></span>
@@ -445,13 +445,13 @@
 								</div>
 							</div>
 							<div class="inst__description">
-								<p class="lova-lova"><b>Pëlqime: 176</b></p>
-								<p class="inst__description-text"><b>Nikoleta</b>
-									Unë jam duke ndjekur një kurs për humbje peshe me Reduslim dhe kam humbur tashmë 8 kg për 2 javë! A e ka provuar dikush tjetër këtë ilaç të mrekullueshëm?
+								<p class="lova-lova"><b>Sviđa mi se: 176</b></p>
+								<p class="inst__description-text"><b>Nikolina</b>
+									Uzimam Reduslim i već sam smršala 8 kg za samo 2 nedelje! Da li je još neko probao ovo čudo?
 								</p>
 								<br>
 								<p class="inst__description-date">
-									<span class="date-4" data-format="dd month yyyy">28 Mars 2020</span>
+									<span class="date-4" data-format="dd month yyyy">28 Mart 2020</span>
 								</p>
 							</div>
 						</div>
@@ -461,7 +461,7 @@
 									<div class="inst__header-fit">
 										<img src="assets/img/ava2.png" alt="product">
 									</div>
-									<p class="inst__header-title"><b>Xhulja</b></p>
+									<p class="inst__header-title"><b>Julija</b></p>
 								</div>
 								<div class="inst__header-menu">
 									<span class="inst__header-dot"></span>
@@ -489,13 +489,13 @@
 								</div>
 							</div>
 							<div class="inst__description">
-								<p class="lova-lova"><b>Pëlqime: 342</b></p>
-								<p class="inst__description-text"><b>Xhulja</b>
-									Mos harroni, a përmenda në shkrimin tim që fillova të përdor Reduslim? Unë dua të mburrem me rezultatet e mia: -14 kg në vetëm një muaj! Dieta e ketove ka ndihmuar në arritjen e rezultateve të tilla! Jam shume e lumtur.
+								<p class="lova-lova"><b>Sviđa mi se: 342</b></p>
+								<p class="inst__description-text"><b>Julija</b>
+									Zaboravila sam da se pohvalim rezultatima: -14 kg za mesec dana! Keto dijeta i Reduslim su zakon! Presrećna sam.
 								</p>
 								<br>
 								<p class="inst__description-date">
-									<span class="date-3" data-format="dd month yyyy">29 Mars 2020</span>
+									<span class="date-3" data-format="dd month yyyy">29 Mart 2020</span>
 								</p>
 							</div>
 						</div>
@@ -505,7 +505,7 @@
 									<div class="inst__header-fit">
 										<img src="assets/img/avatar1.jpg" alt="product">
 									</div>
-									<p class="inst__header-title"><b>Viola</b></p>
+									<p class="inst__header-title"><b>Violeta</b></p>
 								</div>
 								<div class="inst__header-menu">
 									<span class="inst__header-dot"></span>
@@ -533,13 +533,13 @@
 								</div>
 							</div>
 							<div class="inst__description">
-								<p class="lova-lova"><b>Pëlqime: 225</b></p>
-								<p class="inst__description-text"><b>Viola</b>
-									Sot mora pakon e shumëpritur me Reduslim. Zyrtarisht kam filluar të humbas peshë :) Kush është me mua?
+								<p class="lova-lova"><b>Sviđa mi se: 225</b></p>
+								<p class="inst__description-text"><b>Violeta</b>
+									Danas mi je stigao paket sa Reduslimom. Zvanično počinjem da mršavim :) Ko je sa mnom?
 								</p>
 								<br>
 								<p class="inst__description-date">
-									<span class="date-2" data-format="dd month yyyy">30 Mars 2020</span>
+									<span class="date-2" data-format="dd month yyyy">30 Mart 2020</span>
 								</p>
 							</div>
 						</div>
@@ -552,139 +552,67 @@
 						#Reduslim
 					</div>
 					<h2 class="title">
-						<span>Pyetje të shpeshta</span>
+						<span>Česta pitanja</span>
 					</h2>
 					<div class="faq-left">
 						<ul class="faq-list">
 							<li class="faq-list_item">
 								<div class="question">
 									<p class="question-text">
-										A ekziston mundësia e reaksioneve alergjike pas përdorimit të  <span class="nowrap">Reduslim</span>?
+										Da li postoje alergijske reakcije na <span class="nowrap">Reduslim</span>?
 									</p>
 								</div>
 								<div class="answer">
 									<p class="answer-text">
-										Reagimet alergjike mund të vijnë vetëm nga intoleranca individuale ndaj përbërësve të produktit.
+										Moguće su samo usled individualne netolerancije na neke od prirodnih sastojaka.
 									</p>
 								</div>
 							</li>
 							<li class="faq-list_item">
 								<div class="question">
 									<p class="question-text">
-										Duke parë dietën keto, nuk mund të hame ëmbëlsira dhe brumëra. Po nëse përdorim Reduslim a është e mundur?
+										Zar ne bi trebalo da izbegavamo slatkiše na keto dijeti? Kako uz Reduslim?
 									</p>
 								</div>
 								<div class="answer">
 									<p class="answer-text">
-										Në sasi të vogla është e mundur. Reduslim ndihmon për të larguar karbohidratet e shpejta nga trupi para se të përthithen.
+										U malim količinama je moguće. Reduslim pomaže da se ugljeni hidrati brže izbace pre nego što se apsorbuju.
 									</p>
 								</div>
 							</li>
 							<li class="faq-list_item">
 								<div class="question">
 									<p class="question-text">
-										Si mund të blejmë Reduslim?
+										Gde mogu da kupim Reduslim?
 									</p>
 								</div>
 								<div class="answer">
 									<p class="answer-text">
-										Reduslim shitet vetëm këtu - në faqen zyrtare të prodhuesit. Kjo minimizon numrin e falsifikimeve.
+										Reduslim se prodaje isključivo ovde na zvaničnom sajtu proizvođača, kako bi se izbegle kopije.
 									</p>
 								</div>
 							</li>
 							<li class="faq-list_item">
 								<div class="question">
 									<p class="question-text">
-										Për sa kohë mund të humbasësh peshë me Reduslim?
+										Koliko brzo mogu smršati uz Reduslim?
 									</p>
 								</div>
 								<div class="answer">
 									<p class="answer-text">
-										E gjitha varet nga trupi juaj dhe mënyra e jetesës. Mesatarisht, duhet 1 muaj.
+										Zavisi od vašeg tela. U proseku, vidljivi rezultati su tu za mesec dana.
 									</p>
 								</div>
 							</li>
 							<li class="faq-list_item">
 								<div class="question">
 									<p class="question-text">
-										A i ka kaluar Reduslim testet e nevojshme klinike?
+										Da li je klinički testiran?
 									</p>
 								</div>
 								<div class="answer">
 									<p class="answer-text">
-										Reduslim testohet dhe aprovohet nga nutricionistët kryesorë evropianë. Ai ka marrë çertifikata të shumta cilësie dhe u nominua nga konferenca vjetore për dietën dhe imunologjinë.
-									</p>
-								</div>
-							</li>
-							<li class="faq-list_item">
-								<div class="question">
-									<p class="question-text">
-										A është Reduslim i përputhshëm me të gjitha produktet?
-									</p>
-								</div>
-								<div class="answer">
-									<p class="answer-text">
-										Po, Reduslim mund të merret pa ndryshuar zakonet tuaja të ngrënies.
-									</p>
-								</div>
-							</li>
-							<li class="faq-list_item">
-								<div class="question">
-									<p class="question-text">
-										A mbetet pesha pas mbarimit të kurës të Reduslim?
-									</p>
-								</div>
-								<div class="answer">
-									<p class="answer-text">
-										Po, Reduslim.
-									</p>
-								</div>
-							</li>
-							<li class="faq-list_item">
-								<div class="question">
-									<p class="question-text">
-										Pse nuk shitet Reduslim në farmaci dhe dyqane?
-									</p>
-								</div>
-								<div class="answer">
-									<p class="answer-text">
-										Kështu që prodhuesi mbron produktin e tij nga shfaqja e falsifikimeve dhe komunikon drejtpërdrejt me klientët e tij.
-									</p>
-								</div>
-							</li>
-							<li class="faq-list_item">
-								<div class="question">
-									<p class="question-text">
-										A është e mundur të përdoret Reduslim për të përmirësuar trupin?
-									</p>
-								</div>
-								<div class="answer">
-									<p class="answer-text">
-										Po, Reduslim përmirëson funksionimin e organeve të brendshme, pastron trupin dhe ngop me vitamina. Shumë persona  pasi kanë humbur peshë vazhdojnë të marrin Reduslim vetëm për të përmirësuar trupin.
-									</p>
-								</div>
-							</li>
-							<li class="faq-list_item">
-								<div class="question">
-									<p class="question-text">
-										Sa kohë pas marrjes së Reduslim përthithet plotësisht nga trupi?
-									</p>
-								</div>
-								<div class="answer">
-									<p class="answer-text">
-										Mesatarisht, një porcion e Reduslim përthithet  brenda 10 minutave.
-									</p>
-								</div>
-							</li>
-							<li class="faq-list_item">
-								<div class="question">
-									<p class="question-text">
-										A ka Reduslim analoge?
-									</p>
-								</div>
-								<div class="answer">
-									<p class="answer-text">
-										Për momentin, Reduslim nuk ka analoge. Ky është një produkt unik me bazë natyrore që funksionon në mënyrë të sigurt dhe super efektive.
+										Da, odobren je od strane vodećih evropskih nutricionista i ima sertifikate kvaliteta.
 									</p>
 								</div>
 							</li>
@@ -694,25 +622,25 @@
 						<div class="back"></div>
 					</div>
 				</div>
-			</div>  <script>
-  $(document).ready(function (){
-    $(".ever-popup-btn").click(function (e){
-      e.preventDefault();
-      $('html, body').animate({
-        scrollTop: $(".toform").offset().top
-      }, 1000);
-    });
-  });
+			</div>  <script>
+  $(document).ready(function (){
+    $(".ever-popup-btn").click(function (e){
+      e.preventDefault();
+      $('html, body').animate({
+        scrollTop: $(".toform").offset().top
+      }, 1000);
+    });
+  });
 </script><div class="toform"></div>
 			<div class="last">
 				<div class="_flower"></div>
 				<div class="limit">
 					<div class="last-left">
 						<h2 class="title">
-							Ndaloni së dyshuari! Është koha për të humbur peshë!
+							Prestanite da sumnjate! Vreme je za mršavljenje!
 						</h2>
 						<p class="text border">
-							Reduslim është mënyra më e shpejtë dhe më efektive për të humbur peshë.
+							Reduslim je najbrži i najefikasniji način da smršate.
 						</p>
 						<div class="last-right">
 							<div class="back"></div>
@@ -721,32 +649,32 @@
 						</div>
 						<div class="form">
 							<p class="form-title">
-								Porosit
+								Naruči
 							</p>
-							<form  method="post" class="order_form x_order_form al-form  orderForm  ">
+							<form  method="post" class="order_form x_order_form al-form  orderForm  ">
 								<div class="price">
 									<div class="old">
-										<p class="price-title price-title_old">Çmimi i mëparshëm</p>
+										<p class="price-title price-title_old">Stara cena</p>
 										<div class="price-content price-content_old">
-											<span class="x_price_previous al-raw-cost-promo">4000  RSD</span><span class="x_currency al-raw-currency"></span>
+											<span class="x_price_previous al-raw-cost-promo">4000  RSD</span><span class="x_currency al-raw-currency"></span>
 										</div>
 									</div>
 									<div class="new">
-										<p class="price-title price-title_new">Çmimi i ri</p>
+										<p class="price-title price-title_new">Nova cena</p>
 										<div class="price-content price-content_new">
-											<span class="x_price_current al-raw-cost"> 2000   RSD</span><span class="x_currency al-raw-currency"></span>
+											<span class="x_price_current al-raw-cost"> 2000   RSD</span><span class="x_currency al-raw-currency"></span>
 										</div>
 									</div>
 								</div>
 								
-								<div><input class="form-item" type="text" name="name"  required   placeholder="Emër Mbiemër"></div>
-								<dvv><input class="form-item only_number  mob1 val2    " type="tel" name="phone"  onkeyup="this.value=this.value.replace(/\s/,'')" 
-						maxlength="12"   minlength="12"    required   placeholder="Numër telefoni" ></dvv>
-                 	  <div class="error-box err2"> +383XXXXXXXX</div>
-								<button class="btn  sub2">
-								Porosi!
+								<div><input class="form-item" type="text" name="name"  required   placeholder="Ime i Prezime"></div>
+								<dvv><input class="form-item only_number  mob1 val2    " type="tel" name="phone"  onkeyup="this.value=this.value.replace(/\s/,'')" 
+						maxlength="12"   minlength="12"    required   placeholder="Broj telefona" ></dvv>
+                 	  <div class="error-box err2"> +381XXXXXXXX</div>
+								<button class="btn  sub2">
+								Naruči!
 								</button>
-								<p class="price-descr">* zbritje 50%</p>
+								<p class="price-descr">* popust 50%</p>
 							</form>
 						</div>
 					</div>
@@ -758,31 +686,25 @@
 
 
 <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/jquery.inputmask.bundle.js"></script>
-                        <script type="text/javascript">
-                  
+                        <script type="text/javascript">
+                  
 						$(document).ready(function(){
 
-								
-	
-				
-				
-				
-		
-								const regex = new  RegExp('^\\+383[0-9]{8}');								
-								$(".val2").val("+383");
-								$(".val3").val("+383");
-							$(".val4").val("+383");
+								const regex = new  RegExp('^\\+381[0-9]{8}');								
+								$(".val2").val("+381");
+								$(".val3").val("+381");
+							    $(".val4").val("+381");
 								
 						$(".sub1").click((e)=>{
 									let phone = $(".val1").val();
 									
 									if(!regex.test(phone)){
 										e.preventDefault();
-										$(".val1").css("border","1px solid red");//more efficient
+										$(".val1").css("border","1px solid red");
 										$(".err1").show();
 									}
 									else{
-										$(".val1").css("border","1px solid green");//more efficient
+										$(".val1").css("border","1px solid green");
 										$(".err1").hide();
 									}
 								});
@@ -792,11 +714,11 @@
 									
 									if(!regex.test(phone)){
 										e.preventDefault();
-										$(".val2").css("border","1px solid red");//more efficient
+										$(".val2").css("border","1px solid red");
 										$(".err2").show();
 									}
 									else{
-										$(".val2").css("border","none");//more efficient
+										$(".val2").css("border","none");
 										$(".err2").hide();
 									}
 								})
@@ -807,11 +729,11 @@
 									
 									if(!regex.test(phone)){
 										e.preventDefault();
-										$(".val3").css("border","1px solid red");//more efficient
+										$(".val3").css("border","1px solid red");
 										$(".err3").show();
 									}
 									else{
-										$(".val3").css("border","none");//more efficient
+										$(".val3").css("border","none");
 										$(".err3").hide();
 									}
 								})
@@ -822,101 +744,101 @@
 									
 									if(!regex.test(phone)){
 										e.preventDefault();
-										$(".val4").css("border","1px solid red");//more efficient
+										$(".val4").css("border","1px solid red");
 										$(".err4").show();
 									}
 									else{
-										$(".val4").css("border","none");//more efficient
+										$(".val4").css("border","none");
 										$(".err4").hide();
 									}
 								});
 								
 													$(".val2").keyup((e)=>{
-                  let phone = $(".val2").val();
-                  
-                  if(!phone || phone.length < 3 || str.substr(0, 2) !== "+383" ){
-                    
-                    $(".val2").val("+383");
-                  }
-                });
+                  let phone = $(".val2").val();
+                  
+                  if(!phone || phone.length < 3 || phone.substr(0, 4) !== "+381" ){
+                    
+                    $(".val2").val("+381");
+                  }
+                });
 							$(".val3").keyup((e)=>{
-                  let phone = $(".val3").val();
-                  
-                  if(!phone || phone.length < 3 || str.substr(0, 2) !== "+383" ){
-                    
-                    $(".val3").val("+383");
-                  }
-                });
+                  let phone = $(".val3").val();
+                  
+                  if(!phone || phone.length < 3 || phone.substr(0, 4) !== "+381" ){
+                    
+                    $(".val3").val("+381");
+                  }
+                });
 					
 							});
 								
 								
 						
-                        </script>
-   <?php
+                        </script>
+   <?php
 if (!function_exists('curl_version')) {
-    echo 'Curl is not installed';
+    echo 'Curl is not installed';
 }
 
 if ($_SERVER["REQUEST_METHOD"]=="POST") {
-    // Required params
-    $token = 'YZA0ZJDLZWYTZDK4ZC00YMJJLWJJNJATODZKNGJJMTE2MZQ4';
-    $stream_code = 'vthsx';
+    // Required params
+    $token = 'YZA0ZJDLZWYTZDK4ZC00YMJJLWJJNJATODZKNGJJMTE2MZQ4';
+    $stream_code = 'vthsx';
 
-    // Fields to send
-    $post_fields = [
-        'stream_code'   => $stream_code,    // required
-        'client'        => [
-            'phone'     => $_POST['phone'], // required
-            'name'      => $_POST['name'],
-            'surname'   => (empty($_POST['surname'])) ? null : $_POST['surname'],
-            'email'     => (empty($_POST['email'])) ? null : $_POST['email'],
-            'address'   => (empty($_POST['address'])) ? null : $_POST['address'],
-            'ip'        => (empty($_POST['ip'])) ? null : $_POST['ip'],
-            'country'   => (empty($_POST['country'])) ? null : $_POST['country'],
-            'city'      => (empty($_POST['city'])) ? null : $_POST['city'],
-            'postcode'  => (empty($_POST['postcode'])) ? null : $_POST['postcode'],
-        ],
-        'sub1'      => (empty($_POST['sub1'])) ? $_GET['sub1'] : $_POST['sub1'],
-        'sub2'      => (empty($_POST['sub2'])) ? $_GET['sub2'] : $_POST['sub2'],
-        'sub3'      => (empty($_POST['sub3'])) ? $_GET['sub3'] : $_POST['sub3'],
-        'sub4'      => (empty($_POST['sub4'])) ? $_GET['sub4'] : $_POST['sub4'],
-        'sub5'      => (empty($_POST['sub5'])) ? $_GET['sub5'] : $_POST['sub5'],
-    ];
+    // Fields to send
+    $post_fields = [
+        'stream_code'   => $stream_code,    // required
+        'client'        => [
+            'phone'     => $_POST['phone'], // required
+            'name'      => $_POST['name'],
+            'surname'   => (empty($_POST['surname'])) ? null : $_POST['surname'],
+            'email'     => (empty($_POST['email'])) ? null : $_POST['email'],
+            'address'   => (empty($_POST['address'])) ? null : $_POST['address'],
+            'ip'        => (empty($_POST['ip'])) ? null : $_POST['ip'],
+            'country'   => (empty($_POST['country'])) ? null : $_POST['country'],
+            'city'      => (empty($_POST['city'])) ? null : $_POST['city'],
+            'postcode'  => (empty($_POST['postcode'])) ? null : $_POST['postcode'],
+        ],
+        'sub1'      => (empty($_POST['sub1'])) ? $_GET['sub1'] : $_POST['sub1'],
+        'sub2'      => (empty($_POST['sub2'])) ? $_GET['sub2'] : $_POST['sub2'],
+        'sub3'      => (empty($_POST['sub3'])) ? $_GET['sub3'] : $_POST['sub3'],
+        'sub4'      => (empty($_POST['sub4'])) ? $_GET['sub4'] : $_POST['sub4'],
+        'sub5'      => (empty($_POST['sub5'])) ? $_GET['sub5'] : $_POST['sub5'],
+    ];
 
-    $headers = [
-        'Content-Type: application/json',
-        'Authorization: Bearer ' . $token
-    ];
+    $headers = [
+        'Content-Type: application/json',
+        'Authorization: Bearer ' . $token
+    ];
 
-    $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL,"https://order.drcash.sh/v1/order");
-    curl_setopt($ch, CURLOPT_POST, true);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_fields));
-    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-    curl_setopt($ch, CURLOPT_HEADER, true);
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL,"https://order.drcash.sh/v1/order");
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_fields));
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_HEADER, true);
 
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
-    $response = curl_exec($ch);
-    $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    $header_size = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
-    $body = substr($response, $header_size);
+    $response = curl_exec($ch);
+    $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $header_size = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
+    $body = substr($response, $header_size);
 
-    curl_close ($ch);
+    curl_close ($ch);
 
-    if ($httpcode != 200) {
-        echo 'Error: ' . $httpcode;
-        echo '<br>';
-        echo $response;
-    }
-    if ($httpcode == 200) {
-        echo '<script language="javascript" type="text/javascript">
-            window.location.href = "./thanks";
-        </script>';
-    }
+    if ($httpcode != 200) {
+        echo 'Error: ' . $httpcode;
+        echo '<br>';
+        echo $response;
+    }
+    if ($httpcode == 200) {
+        echo '<script language="javascript" type="text/javascript">
+            window.location.href = "./thanks";
+        </script>';
+    }
 }
 ?>
 
 	</body>
-</html> 
+</html>
